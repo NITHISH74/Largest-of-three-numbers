@@ -56,6 +56,7 @@ public class hello
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/94164665/163829484-0e2f42ed-d146-44c6-9889-cf456cac78c5.png)
 
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully.
