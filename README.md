@@ -3,7 +3,7 @@
 To write a C# program to find the largest of three numbers.
 
 
-## Algorith:
+## Algorithm:
 ### Step 1:
 To start the C# program in visual Studio 2022.
 ### Step 2:
