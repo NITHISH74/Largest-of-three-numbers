@@ -19,7 +19,7 @@ Finish the C# program and run it.
 ### Step7:
 To print the output for the largest of three numbers.
 ## Program:
-```
+```c#
 using System;
 public class hello
 {
